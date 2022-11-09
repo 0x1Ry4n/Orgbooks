@@ -60,7 +60,7 @@ CREATE PROCEDURE `sp_atualizar_status_livro`(IN id INT, IN _status BOOL)
 BEGIN
 	UPDATE tb_livro SET status_livro = _status WHERE id_livro = id;
 END
-DELIMITER ;
+DELIMITER;
 
 CALL sp_atualizar_status_livro(484978, 1);
 
