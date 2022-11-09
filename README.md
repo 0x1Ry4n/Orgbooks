@@ -7,7 +7,7 @@
 <div>
   <h2 align="center">Login:</h2>
   <p align="center">
-    <img src="Design/project_images/login-page" width="50%" height="50%">
+    <img src="Design/project_images/login_page" width="50%" height="50%">
   </p>
 </div>
 
