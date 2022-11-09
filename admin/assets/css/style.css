@@ -1,0 +1,191 @@
+:root {
+  --primary-color: #584c7c;
+}
+
+::selection {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+* {
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.message {
+  margin-left: 35px;
+}
+
+.filter-table {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  width: 500px;
+}
+
+.filter-table p {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.filter-table form {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+@media (max-width: 410px) {
+  .message {
+    margin-top: 20px;
+    margin-left: 60px;
+  }
+
+  .message h1, .message span {
+    font-size: 16pt;
+  }
+
+  div.dt-buttons.btn-group.flex-wrap.d-none.d-sm-block {
+    max-width: 175px;
+    margin-top: 5px;
+  }
+
+  div.filter-table div.dropdown.bootstrap-select {
+    max-width: 75px;
+  }
+
+  .dataTables_filter {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-top: 10px;
+  }
+
+  input.form-control.form-control-sm {
+    max-width: 150px;
+  }
+
+  .filter-table {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 481px) {
+  .message {
+    margin-top: 20px;
+    margin-left: 60px;
+  }
+
+  .message h1, .message span {
+    font-size: 16pt;
+  }
+
+  div.dt-buttons.btn-group.flex-wrap.d-none.d-sm-block {
+    max-width: 275px;
+    margin-top: 10px;
+  }
+
+  div.filter-table div.dropdown.bootstrap-select {
+    max-width: 75px;
+  }
+
+  .dataTables_filter {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-top: 10px;
+  }
+
+  input.form-control.form-control-sm {
+    max-width: 150px;
+  }
+
+  
+  .filter-table {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 200px;
+  }
+
+  .filter-table p {
+    font-size: 12.5pt;
+  }
+
+  .filter-table form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filter-table form button {
+    margin: auto;
+  }
+}
+
+@media (max-width: 641px) {
+  div.dt-buttons.btn-group.flex-wrap.d-none.d-sm-block {
+    max-width: 200px;
+    margin-top: 10px;
+  }
+
+  div.filter-table div.dropdown.bootstrap-select {
+    max-width: 75px;
+  }
+
+  .dataTables_filter {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-top: 30px;
+  }
+
+  input.form-control.form-control-sm {
+    max-width: 150px;
+  }
+}
+
+
+@media (max-width: 961px) {
+  div.dt-buttons.btn-group.flex-wrap.d-none.d-sm-block {
+    max-width: 200px;
+    margin-top: 10px;
+  }
+
+  div.filter-table div.dropdown.bootstrap-select {
+    max-width: 75px;
+  }
+
+  .dataTables_filter {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-top: 30px;
+  }
+
+  input.form-control.form-control-sm {
+    max-width: 150px;
+  }
+}
+
+@media (min-width: 1024px) {
+  div.filter-table div.dropdown.bootstrap-select {
+    max-width: 75px;
+  }
+
+  input.form-control.form-control-sm {
+    max-width: 175px;
+  }
+}
+
+@media (min-width: 1281px) {
+  div.filter-table div.dropdown.bootstrap-select {
+    max-width: 75px;
+  }
+
+  input.form-control.form-control-sm {
+    max-width: 175px;
+  }
+}
