@@ -7,14 +7,14 @@
 <div>
   <h2 align="center">Login:</h2>
   <p align="center">
-    <img src="Design/project_images/login_page.jpg" width="75%" height="75%">
+    <img src="Design/project_images/login_page.jpg" width="80%" height="80%">
   </p>
 </div>
 
 <div>
   <h2 align="center">Overview:</h2>
   <p align="center">
-    <img src="Design/project_images/overview.jpg" width="50%" height="50%">
+    <img src="Design/project_images/overview.jpg" width="80%" height="80%">
   </p>
 </div>
 
