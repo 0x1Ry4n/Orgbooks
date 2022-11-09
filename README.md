@@ -93,7 +93,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Editar Aluno</h2>
+  <h2 align="center">Editar Aluno:</h2>
   <p align="center">
     <img src="Design/project_images/edit_students.jpg" width="80%" height="80%">
   </p>
