@@ -39,7 +39,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Edições:</h2>
+  <h2 align="center">Editar Edição:</h2>
   <p align="center">
     <img src="Design/project_images/edit_edition.jpg" width="50%" height="50%">
   </p>
