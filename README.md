@@ -5,6 +5,13 @@
 <br>
 
 <div>
+  <h2 align="center">Login:</h2>
+  <p align="center">
+    <img src="Design/application-details/user-screen.jpg" width="50%" height="50%">
+  </p>
+</div>
+
+<div>
   <h2 align="center">Overview:</h2>
   <p align="center">
     <img src="Design/application-details/user-screen.jpg" width="50%" height="50%">
