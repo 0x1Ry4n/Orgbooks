@@ -1,6 +1,0 @@
-{
-    "require": {
-        "chillerlan/php-qrcode": "^4.3",
-        "paragonie/sodium_compat": "^1.19"
-    }
-}
