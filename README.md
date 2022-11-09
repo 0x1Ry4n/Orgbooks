@@ -66,6 +66,16 @@
 <br> 
 
 <div>
+  <h2 align="center">Empréstimos:</h2>
+  <p align="center">
+    <img src="Design/project_images/loans.jpg" width="80%" height="80%">
+  </p>
+</div>
+
+<br> 
+
+
+<div>
   <h2 align="center">Gerar QRCode:</h2>
   <p align="center">
     <img src="Design/project_images/generate.jpg" width="80%" height="80%">
