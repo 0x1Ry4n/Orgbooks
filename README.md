@@ -23,7 +23,7 @@
 <div>
   <h2 align="center">Perfil:</h2>
   <p align="center">
-    <img src="Design/project_images/meu_perfil.jpg" width="50%" height="50%">
+    <img src="Design/project_images/meu_perfil.jpg" width="80%" height="80%">
   </p>
 </div>
 
@@ -32,7 +32,7 @@
 <div>
   <h2 align="center">Edições:</h2>
   <p align="center">
-    <img src="Design/project_images/editions.jpg" width="50%" height="50%">
+    <img src="Design/project_images/editions.jpg" width="80%" height="80%">
   </p>
 </div>
 
@@ -41,7 +41,7 @@
 <div>
   <h2 align="center">Editar Edição:</h2>
   <p align="center">
-    <img src="Design/project_images/edit_edition.jpg" width="50%" height="50%">
+    <img src="Design/project_images/edit_edition.jpg" width="80%" height="80%">
   </p>
 </div>
 
@@ -50,7 +50,7 @@
 <div>
   <h2 align="center">Livros:</h2>
   <p align="center">
-    <img src="Design/project_images/books.jpg" width="50%" height="50%">
+    <img src="Design/project_images/books.jpg" width="80%" height="80%">
   </p>
 </div>
 
@@ -59,7 +59,7 @@
 <div>
   <h2 align="center">Editar Livro:</h2>
   <p align="center">
-    <img src="Design/project_images/edit_book.jpg" width="50%" height="50%">
+    <img src="Design/project_images/edit_book.jpg" width="80%" height="80%">
   </p>
 </div>
 
@@ -68,6 +68,6 @@
 <div>
   <h2 align="center">Gerar QRCode:</h2>
   <p align="center">
-    <img src="Design/project_images/generate.jpg" width="50%" height="50%">
+    <img src="Design/project_images/generate.jpg" width="80%" height="80%">
   </p>
 </div>
