@@ -21,6 +21,15 @@
 <br>
 
 <div>
+  <h2 align="center">Loading::</h2>
+  <p align="center">
+    <img src="Design/project_images/loading.jpg" width="80%" height="80%">
+  </p>
+</div>
+
+<br>
+
+<div>
   <h2 align="center">Configuração de interface:</h2>
   <p align="center">
     <img src="Design/project_images/interface_configs.jpg" width="80%" height="80%">
