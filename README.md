@@ -81,6 +81,15 @@
   </p>
 </div>
 
+<br>
+
+<div>
+  <h2 align="center">Listar Alunos:</h2>
+  <p align="center">
+    <img src="Design/project_images/list_students.jpg" width="80%" height="80%">
+  </p>
+</div>
+
 <br> 
 
 <div>
