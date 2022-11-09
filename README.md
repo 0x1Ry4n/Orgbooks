@@ -7,14 +7,14 @@
 <div>
   <h2 align="center">Login:</h2>
   <p align="center">
-    <img src="Design/application-details/user-screen.jpg" width="50%" height="50%">
+    <img src="Design/project-images/login-page" width="50%" height="50%">
   </p>
 </div>
 
 <div>
   <h2 align="center">Overview:</h2>
   <p align="center">
-    <img src="Design/application-details/user-screen.jpg" width="50%" height="50%">
+    <img src="Design/project-images/overview.jpg" width="50%" height="50%">
   </p>
 </div>
 
@@ -23,7 +23,7 @@
 <div>
   <h2 align="center">Perfil:</h2>
   <p align="center">
-    <img src="Design/application-details/options-screen.jpg" width="50%" height="50%">
+    <img src="Design/project-images/meu_perfil.jpg" width="50%" height="50%">
   </p>
 </div>
 
@@ -32,6 +32,6 @@
 <div>
   <h2 align="center">Gerar QRCode:</h2>
   <p align="center">
-    <img src="Design/application-details/example-screen.jpg" width="50%" height="50%">
+    <img src="Design/project-images/generate.jpg" width="50%" height="50%">
   </p>
 </div>
