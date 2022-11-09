@@ -30,8 +30,44 @@
 <br> 
 
 <div>
+  <h2 align="center">Edições:</h2>
+  <p align="center">
+    <img src="Design/project_images/editions.jpg" width="50%" height="50%">
+  </p>
+</div>
+
+<br> 
+
+<div>
+  <h2 align="center">Edições:</h2>
+  <p align="center">
+    <img src="Design/project_images/edit_edition.jpg" width="50%" height="50%">
+  </p>
+</div>
+
+<br> 
+
+<div>
+  <h2 align="center">Livros:</h2>
+  <p align="center">
+    <img src="Design/project_images/books.jpg" width="50%" height="50%">
+  </p>
+</div>
+
+<br> 
+
+<div>
+  <h2 align="center">Editar Livro:</h2>
+  <p align="center">
+    <img src="Design/project_images/edit_book.jpg" width="50%" height="50%">
+  </p>
+</div>
+
+<br> 
+
+<div>
   <h2 align="center">Gerar QRCode:</h2>
   <p align="center">
-    <img src="Design/project-images/generate.jpg" width="50%" height="50%">
+    <img src="Design/project_images/generate.jpg" width="50%" height="50%">
   </p>
 </div>
