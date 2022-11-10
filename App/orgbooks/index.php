@@ -83,12 +83,7 @@
 			</div>
 		</div>
 	</div>
-
-			<!-- waves -->
-			
-
-
-	<!-- js -->
+	
 	<script>
 		AOS.init();
 
