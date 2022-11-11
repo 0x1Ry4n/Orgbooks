@@ -56,13 +56,12 @@ CREATE TABLE tb_emprestimo (
 );
 
 DELIMITER 
-CREATE PROCEDURE `sp_atualizar_status_livro`(IN id INT, IN _status BOOL)
+CREATE PROCEDURE `sp_atualizar_status_livro`(IN id_livro INT, IN status BOOL)
 BEGIN
-	UPDATE tb_livro SET status_livro = _status WHERE id_livro = id;
+	UPDATE tb_livro SET status_livro = status WHERE id_livro = id_livro;
 END
 DELIMITER;
 
-CALL sp_atualizar_status_livro(484978, 1);
 
 DELIMITER 
 CREATE PROCEDURE `sp_total_livros_vencidos`()
