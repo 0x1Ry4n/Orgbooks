@@ -72,12 +72,9 @@
         $editar->editarFormulario($edicao, $livro, $descricao);
     }
 
-     
-	if(isset($_POST['reset'])) {
+    if(isset($_POST['reset'])) {
         $editar->setLivro("a");
         $editar->setEdicao("b");
         $editar->setDescricao("c");
-	}
-	
-
+    }
 ?>
