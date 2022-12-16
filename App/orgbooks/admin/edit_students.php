@@ -161,8 +161,6 @@
 
 	<?php include_once('includes/scripts.php') ?>
 
-	<!-- js -->
-
 	<script src="../controllers/web/viacep/viacep.js" type="module"></script>
 
 </body>
