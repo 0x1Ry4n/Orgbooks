@@ -19,9 +19,10 @@
 
 <ul><li><h2>🚀 Tecnologias:</h2></li></ul>
 <ul>
-  <li> HTML, CSS e JS </li>
+  <li> HTML, CSS e JS no frontend </li>
   <li> Bootstrap </li>
-  <li> PHP e Composer </li>
+  <li> PHP e Composer no backend </li>
+  <li> MySQL como linguagem de banco de dados </li>
 </ul>
 
 <br>
