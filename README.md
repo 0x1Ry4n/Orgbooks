@@ -109,7 +109,7 @@
 <div>
   <h3 align="center">Empréstimos:</h3>
   <p align="center">
-    <img src="Design/project_images/loans.jpg" width="80%" height="80%">
+    <img src="Design/project_images/loans.jpg" width="70%" height="70%">
   </p>
 </div>
 
