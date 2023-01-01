@@ -4,8 +4,20 @@
 
 <br>
 
-<ul><li><h2>Telas:</h2></li></ul>
+<ul><li><h2>✨ Features:</h2></li></ul>
+<hr>
+✔️ Aplicação responsiva
+✔️ Composer como gerenciador de pacotes
+✔️ Uso da biblioteca php-qrcode para identificação dos livros didáticos
+✔️ Uso da biblioteca Apexcharts.js e FullCalendar.js na aba overview
+✔️ Uso de um scanner de qrcode para scanning dos livros e realização de empréstimos
+✔️ Overview geral dos empréstimos e livros registrados na base de dados
+✔️ CRUD de livros, edições, empréstimos e alunos 
+<br>
 
+
+<ul><li><h2>Telas:</h2></li></ul>
+<hr>
 <div>
   <h3 align="center">Login:</h3>
   <p align="center">
