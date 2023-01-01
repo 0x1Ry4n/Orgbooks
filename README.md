@@ -10,6 +10,7 @@
 <p> ✔️ Composer como gerenciador de pacotes </p>
 <p> ✔️ Uso da biblioteca php-qrcode para geração de qrcode's </p>
 <p> ✔️ Uso da biblioteca Apexcharts.js e FullCalendar.js na aba overview </p>
+<p> ✔️ Exportar datatables em formato PDF e CSV  </p>
 <p> ✔️ Uso de um scanner de qrcode para scanning dos livros e realização de empréstimos </p>
 <p> ✔️ Overview geral dos empréstimos e livros registrados na base de dados </p>
 <p> ✔️ CRUD de livros, edições, empréstimos e alunos </p>  
