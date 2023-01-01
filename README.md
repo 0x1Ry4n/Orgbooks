@@ -6,8 +6,8 @@
 
 <ul><li><h2>✨ Features:</h2></li></ul>
 <hr>
-✔️ Aplicação responsiva
-✔️ Composer como gerenciador de pacotes
+<p> ✔️ Aplicação responsiva </p>
+<p> ✔️ Composer como gerenciador de pacotes </p>
 ✔️ Uso da biblioteca php-qrcode para identificação dos livros didáticos
 ✔️ Uso da biblioteca Apexcharts.js e FullCalendar.js na aba overview
 ✔️ Uso de um scanner de qrcode para scanning dos livros e realização de empréstimos
