@@ -27,7 +27,7 @@
 
 <br>
 
-<ul><li><h2>Telas:</h2></li></ul>
+<ul><li><h2>💻 Telas:</h2></li></ul>
 <div>
   <h3 align="center">Login:</h3>
   <p align="center">
