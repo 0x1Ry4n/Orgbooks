@@ -4,7 +4,7 @@
 
 <br>
 
-<ul><h1> Telas: </h1></ul>
+<ul><h2> Telas: </h2></ul>
 
 <div>
   <h2 align="center">Login:</h2>
