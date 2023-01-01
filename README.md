@@ -6,8 +6,9 @@
 
 <ul><li><h2>✨ Features:</h2></li></ul>
 <p> ✔️ Aplicação responsiva </p>
+<p> ✔️ Tema claro e escuro </p>
 <p> ✔️ Composer como gerenciador de pacotes </p>
-<p> ✔️ Uso da biblioteca php-qrcode para identificação dos livros didáticos </p>
+<p> ✔️ Uso da biblioteca php-qrcode para geração de qrcode's </p>
 <p> ✔️ Uso da biblioteca Apexcharts.js e FullCalendar.js na aba overview </p>
 <p> ✔️ Uso de um scanner de qrcode para scanning dos livros e realização de empréstimos </p>
 <p> ✔️ Overview geral dos empréstimos e livros registrados na base de dados </p>
