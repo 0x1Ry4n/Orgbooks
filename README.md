@@ -4,7 +4,7 @@
 
 <br>
 
-<h2><ul>Telas: </ul></h2>
+<ul style='font-size: 12pt'>Telas: </ul>
 
 <div>
   <h2 align="center">Login:</h2>
