@@ -18,7 +18,7 @@
 <div>
   <h3 align="center">Login:</h3>
   <p align="center">
-    <img src="Design/project_images/login_page.jpg" width="80%" height="80%">
+    <img src="Design/project_images/login_page.jpg" width="60%" height="60%">
   </p>
 </div>
 
