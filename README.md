@@ -7,14 +7,14 @@
 <ul><li><h2>Telas:</h2></li></ul>
 
 <div>
-  <h2 align="center">Login:</h2>
+  <h3 align="center">Login:</h3>
   <p align="center">
     <img src="Design/project_images/login_page.jpg" width="80%" height="80%">
   </p>
 </div>
 
 <div>
-  <h2 align="center">Overview:</h2>
+  <h3 align="center">Overview:</h3>
   <p align="center">
     <img src="Design/project_images/overview.jpg" width="80%" height="80%">
   </p>
@@ -23,7 +23,7 @@
 <br>
 
 <div>
-  <h2 align="center">Loading:</h2>
+  <h3 align="center">Loading:</h3>
   <p align="center">
     <img src="Design/project_images/loading.jpg" width="80%" height="80%">
   </p>
@@ -32,7 +32,7 @@
 <br>
 
 <div>
-  <h2 align="center">Configuração de interface:</h2>
+  <h3 align="center">Configuração de interface:</h3>
   <p align="center">
     <img src="Design/project_images/interface_configs.jpg" width="80%" height="80%">
   </p>
@@ -41,7 +41,7 @@
 <br>
 
 <div>
-  <h2 align="center">Perfil:</h2>
+  <h3 align="center">Perfil:</h3>
   <p align="center">
     <img src="Design/project_images/meu_perfil.jpg" width="80%" height="80%">
   </p>
@@ -50,7 +50,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Edições:</h2>
+  <h3 align="center">Edições:</h3>
   <p align="center">
     <img src="Design/project_images/editions.jpg" width="80%" height="80%">
   </p>
@@ -59,7 +59,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Editar Edição:</h2>
+  <h3 align="center">Editar Edição:</h3>
   <p align="center">
     <img src="Design/project_images/edit_edition.jpg" width="80%" height="80%">
   </p>
@@ -68,7 +68,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Livros:</h2>
+  <h3 align="center">Livros:</h3>
   <p align="center">
     <img src="Design/project_images/books.jpg" width="80%" height="80%">
   </p>
@@ -77,7 +77,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Editar Livro:</h2>
+  <h3 align="center">Editar Livro:</h3>
   <p align="center">
     <img src="Design/project_images/edit_book.jpg" width="80%" height="80%">
   </p>
@@ -86,7 +86,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Empréstimos:</h2>
+  <h3 align="center">Empréstimos:</h3>
   <p align="center">
     <img src="Design/project_images/loans.jpg" width="80%" height="80%">
   </p>
@@ -95,7 +95,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Alunos:</h2>
+  <h3 align="center">Alunos:</h3>
   <p align="center">
     <img src="Design/project_images/students.jpg" width="80%" height="80%">
   </p>
@@ -104,7 +104,7 @@
 <br>
 
 <div>
-  <h2 align="center">Listar Alunos:</h2>
+  <h3 align="center">Listar Alunos:</h3>
   <p align="center">
     <img src="Design/project_images/list_students.jpg" width="80%" height="80%">
   </p>
@@ -113,7 +113,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Editar Aluno:</h2>
+  <h3 align="center">Editar Aluno:</h3>
   <p align="center">
     <img src="Design/project_images/edit_students.jpg" width="80%" height="80%">
   </p>
@@ -122,7 +122,7 @@
 <br> 
 
 <div>
-  <h2 align="center">Gerar QRCode:</h2>
+  <h3 align="center">Gerar QRCode:</h3>
   <p align="center">
     <img src="Design/project_images/generate.jpg" width="80%" height="80%">
   </p>
