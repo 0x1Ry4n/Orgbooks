@@ -17,11 +17,11 @@
 <br>
 
 <ul><li><h2>🚀 Tecnologias:</h2></li></ul>
-<li>
-  <ul> HTML, CSS e JS </ul>
-  <ul> Bootstrap </ul>
-  <ul> PHP e Composer </ul>
-</li>
+<ul>
+  <li> HTML, CSS e JS </li>
+  <li> Bootstrap </li>
+  <li> PHP e Composer </li>
+</ul>
 
 
 <ul><li><h2>Telas:</h2></li></ul>
