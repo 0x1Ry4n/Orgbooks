@@ -11,6 +11,7 @@
 <p> ✔️ Uso da biblioteca php-qrcode para geração de qrcode's </p>
 <p> ✔️ Uso das bibliotecas Apexcharts.js e FullCalendar.js na aba overview </p>
 <p> ✔️ Uso de um scanner de qrcode para scanning dos livros e realização de empréstimos </p>
+<p> ✔️ Hash MD5 no login (feature a ser melhorada)
 <p> ✔️ Exportar datatables em formato PDF e CSV  </p>
 <p> ✔️ Overview geral dos empréstimos e livros registrados na base de dados </p>
 <p> ✔️ CRUD de livros, edições, empréstimos e alunos </p>  
