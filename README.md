@@ -20,6 +20,7 @@
 
 <ul><li><h2>🚀 Tecnologias:</h2></li></ul>
 <ul>
+  <li> Padrão MVC </li>
   <li> HTML, CSS e JS no frontend </li>
   <li> Bootstrap </li>
   <li> PHP e Composer no backend </li>
